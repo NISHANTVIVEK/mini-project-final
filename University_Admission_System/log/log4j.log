@@ -1,0 +1,170 @@
+
+2019-10-29 11:32:27 DEBUG LoginServiceImpl:21 - Login Authentication in LoginService Layer
+2019-10-29 11:39:20 INFO  LoginServiceImpl:21 - Login Authentication in LoginService Layer
+2019-10-29 11:39:20 INFO  MACserviceImpl:25 - Showing Applicants Details in MACService Layer
+2019-10-29 11:39:37 INFO  MACserviceImpl:56 - Retrieving Applicant Status in MACService Layer
+2019-10-29 11:39:37 INFO  MACserviceImpl:25 - Showing Applicants Details in MACService Layer
+2019-10-29 11:48:16 INFO  LoginServiceImpl:21 - Login Authentication in LoginService Layer
+2019-10-29 11:48:17 INFO  MACserviceImpl:23 - Showing Applicants Details in MACService Layer
+2019-10-29 11:48:22 INFO  MACserviceImpl:54 - Retrieving Applicant Status in MACService Layer
+2019-10-29 11:48:23 INFO  MACserviceImpl:23 - Showing Applicants Details in MACService Layer
+2019-10-29 11:50:38 INFO  LoginServiceImpl:21 - Login Authentication in LoginService Layer
+2019-10-29 11:50:39 INFO  MACserviceImpl:23 - Showing Applicants Details in MACService Layer
+2019-10-29 11:50:43 INFO  MACserviceImpl:54 - Retrieving Applicant Status in MACService Layer
+2019-10-29 11:50:43 INFO  MACserviceImpl:23 - Showing Applicants Details in MACService Layer
+2019-10-29 11:51:53 INFO  MACserviceImpl:54 - Retrieving Applicant Status in MACService Layer
+2019-10-29 11:51:53 INFO  MACserviceImpl:23 - Showing Applicants Details in MACService Layer
+2019-10-29 11:52:04 INFO  MACserviceImpl:54 - Retrieving Applicant Status in MACService Layer
+2019-10-29 11:52:04 INFO  MACserviceImpl:23 - Showing Applicants Details in MACService Layer
+2019-10-29 11:53:00 INFO  LoginServiceImpl:21 - Login Authentication in LoginService Layer
+2019-10-29 11:53:30 INFO  LoginServiceImpl:21 - Login Authentication in LoginService Layer
+2019-10-29 11:53:34 INFO  ApplicationServiceImpl:42 - Listing Offered Programs Details in ApplicationService Layer
+2019-10-29 11:57:09 INFO  ApplicationServiceImpl:36 - Listing Scheduled Programs Details in ApplicationService Layer
+2019-10-29 11:58:03 INFO  ApplicationServiceImpl:36 - Listing Scheduled Programs Details in ApplicationService Layer
+2019-10-29 11:58:11 INFO  ApplicationServiceImpl:28 - Adding Application Details in ApplicationService Layer
+2019-10-29 11:58:11 INFO  MACserviceImpl:23 - Showing Applicants Details in MACService Layer
+2019-10-29 11:59:51 INFO  ApplicationServiceImpl:36 - Listing Scheduled Programs Details in ApplicationService Layer
+2019-10-29 12:01:45 INFO  ApplicationServiceImpl:36 - Listing Scheduled Programs Details in ApplicationService Layer
+2019-10-29 12:02:12 INFO  ApplicationServiceImpl:36 - Listing Scheduled Programs Details in ApplicationService Layer
+2019-10-29 12:05:00 INFO  ApplicationServiceImpl:36 - Listing Scheduled Programs Details in ApplicationService Layer
+2019-10-29 12:05:30 INFO  ApplicationServiceImpl:36 - Listing Scheduled Programs Details in ApplicationService Layer
+2019-10-29 12:05:38 INFO  ApplicationServiceImpl:28 - Adding Application Details in ApplicationService Layer
+2019-10-29 12:05:38 INFO  MACserviceImpl:23 - Showing Applicants Details in MACService Layer
+2019-10-29 12:14:21 INFO  ApplicationServiceImpl:41 - Listing Scheduled Programs Details in ApplicationService Layer
+2019-10-29 12:15:47 INFO  ApplicationServiceImpl:41 - Listing Scheduled Programs Details in ApplicationService Layer
+2019-10-29 12:16:01 INFO  ApplicationServiceImpl:28 - Adding Application Details in ApplicationService Layer
+2019-10-29 12:16:01 INFO  ApplicationServiceImpl:35 - Showing Applicants Details in ApplicationService Layer
+2019-10-29 12:33:06 INFO  LoginServiceImpl:21 - Login Authentication in LoginService Layer
+2019-10-29 12:33:11 INFO  AdminServiceImpl:29 - Listing Offered Programs Details in AdminServiceImpl Layer
+2019-10-29 12:33:16 INFO  AdminServiceImpl:36 - Showing Applicants Details in AdminServiceImpl Layer
+2019-10-29 13:04:44 INFO  LoginServiceImpl:21 - Login Authentication in LoginService Layer
+2019-10-29 13:08:02 INFO  LoginServiceImpl:21 - Login Authentication in LoginService Layer
+2019-10-29 13:09:25 INFO  LoginServiceImpl:21 - Login Authentication in LoginService Layer
+2019-10-29 13:09:48 INFO  LoginServiceImpl:21 - Login Authentication in LoginService Layer
+2019-10-29 13:10:19 INFO  LoginServiceImpl:21 - Login Authentication in LoginService Layer
+2019-10-29 13:10:52 INFO  LoginServiceImpl:21 - Login Authentication in LoginService Layer
+2019-10-29 13:11:26 INFO  LoginServiceImpl:21 - Login Authentication in LoginService Layer
+2019-10-29 13:11:49 INFO  ApplicationServiceImpl:36 - Listing Scheduled Programs Details in ApplicationService Layer
+2019-10-29 13:21:55 INFO  LoginServiceImpl:21 - Login Authentication in LoginService Layer
+2019-10-29 13:26:08 INFO  LoginServiceImpl:21 - Login Authentication in LoginService Layer
+2019-10-29 13:26:43 INFO  AdminServiceImpl:41 - Adding Programs Details in AdminServiceImpl Layer
+2019-10-29 13:26:55 INFO  ApplicationServiceImpl:36 - Listing Scheduled Programs Details in ApplicationService Layer
+2019-10-29 13:27:20 INFO  LoginServiceImpl:21 - Login Authentication in LoginService Layer
+2019-10-29 13:27:21 INFO  MACserviceImpl:23 - Showing Applicants Details in MACService Layer
+2019-10-29 13:27:35 INFO  MACserviceImpl:54 - Retrieving Applicant Status in MACService Layer
+2019-10-29 13:27:49 INFO  LoginServiceImpl:21 - Login Authentication in LoginService Layer
+2019-10-29 13:27:56 INFO  AdminServiceImpl:29 - Listing Offered Programs Details in AdminServiceImpl Layer
+2019-10-29 14:31:56 INFO  LoginServiceImpl:21 - Login Authentication in LoginService Layer
+2019-10-29 14:31:59 INFO  AdminServiceImpl:29 - Listing Offered Programs Details in AdminServiceImpl Layer
+2019-10-29 14:33:30 INFO  LoginServiceImpl:21 - Login Authentication in LoginService Layer
+2019-10-29 14:33:36 INFO  AdminServiceImpl:29 - Listing Offered Programs Details in AdminServiceImpl Layer
+2019-10-29 14:34:01 INFO  LoginServiceImpl:21 - Login Authentication in LoginService Layer
+2019-10-29 14:34:03 INFO  AdminServiceImpl:29 - Listing Offered Programs Details in AdminServiceImpl Layer
+2019-10-29 14:34:25 INFO  AdminServiceImpl:36 - Showing Applicants Details in AdminServiceImpl Layer
+2019-10-29 15:15:58 INFO  LoginServiceImpl:21 - Login Authentication in LoginService Layer
+2019-10-29 15:16:42 INFO  LoginServiceImpl:21 - Login Authentication in LoginService Layer
+2019-10-29 15:16:43 INFO  MACserviceImpl:23 - Showing Applicants Details in MACService Layer
+2019-10-29 15:56:02 INFO  LoginServiceImpl:21 - Login Authentication in LoginService Layer
+2019-10-29 15:56:13 INFO  LoginServiceImpl:21 - Login Authentication in LoginService Layer
+2019-10-29 15:58:03 INFO  LoginServiceImpl:21 - Login Authentication in LoginService Layer
+2019-10-29 15:59:09 INFO  AdminServiceImpl:41 - Adding Programs Details in AdminServiceImpl Layer
+2019-10-29 16:00:22 INFO  LoginServiceImpl:21 - Login Authentication in LoginService Layer
+2019-10-29 16:00:26 INFO  AdminServiceImpl:29 - Listing Offered Programs Details in AdminServiceImpl Layer
+2019-10-29 16:00:32 INFO  AdminServiceImpl:29 - Listing Offered Programs Details in AdminServiceImpl Layer
+2019-10-29 16:00:40 INFO  ApplicationServiceImpl:42 - Listing Offered Programs Details in ApplicationService Layer
+2019-10-29 16:01:13 INFO  AdminServiceImpl:41 - Adding Programs Details in AdminServiceImpl Layer
+2019-10-29 16:01:49 INFO  LoginServiceImpl:21 - Login Authentication in LoginService Layer
+2019-10-29 16:01:53 INFO  ApplicationServiceImpl:42 - Listing Offered Programs Details in ApplicationService Layer
+2019-10-29 16:02:14 INFO  AdminServiceImpl:41 - Adding Programs Details in AdminServiceImpl Layer
+2019-10-29 16:03:38 INFO  LoginServiceImpl:21 - Login Authentication in LoginService Layer
+2019-10-29 16:03:49 INFO  ApplicationServiceImpl:42 - Listing Offered Programs Details in ApplicationService Layer
+2019-10-29 16:04:12 INFO  AdminServiceImpl:41 - Adding Programs Details in AdminServiceImpl Layer
+2019-10-29 16:20:25 INFO  LoginServiceImpl:21 - Login Authentication in LoginService Layer
+2019-10-29 16:20:30 INFO  ApplicationServiceImpl:42 - Listing Offered Programs Details in ApplicationService Layer
+2019-10-29 16:21:03 INFO  AdminServiceImpl:41 - Adding Programs Details in AdminServiceImpl Layer
+2019-10-29 16:21:14 INFO  AdminServiceImpl:29 - Listing Offered Programs Details in AdminServiceImpl Layer
+2019-10-29 16:21:23 INFO  ApplicationServiceImpl:36 - Listing Scheduled Programs Details in ApplicationService Layer
+2019-10-29 16:23:43 INFO  LoginServiceImpl:21 - Login Authentication in LoginService Layer
+2019-10-29 16:23:47 INFO  ApplicationServiceImpl:42 - Listing Offered Programs Details in ApplicationService Layer
+2019-10-29 16:24:09 INFO  AdminServiceImpl:41 - Adding Programs Details in AdminServiceImpl Layer
+2019-10-29 16:24:54 INFO  LoginServiceImpl:21 - Login Authentication in LoginService Layer
+2019-10-29 16:25:00 INFO  ApplicationServiceImpl:42 - Listing Offered Programs Details in ApplicationService Layer
+2019-10-29 16:25:17 INFO  AdminServiceImpl:41 - Adding Programs Details in AdminServiceImpl Layer
+2019-10-29 16:30:43 INFO  LoginServiceImpl:21 - Login Authentication in LoginService Layer
+2019-10-29 16:30:44 INFO  MACserviceImpl:23 - Showing Applicants Details in MACService Layer
+2019-10-29 16:34:49 INFO  MACserviceImpl:23 - Showing Applicants Details in MACService Layer
+2019-10-29 16:34:49 INFO  MACserviceImpl:54 - Retrieving Applicant Status in MACService Layer
+2019-10-29 16:34:49 INFO  LoginServiceImpl:21 - Login Authentication in LoginService Layer
+2019-10-29 16:34:49 INFO  ApplicationServiceImpl:48 - Tracking Application Status using Application ID in ApplicationService Layer
+2019-10-29 16:34:49 INFO  ApplicationServiceImpl:48 - Tracking Application Status using Application ID in ApplicationService Layer
+2019-10-29 16:34:49 INFO  ApplicationServiceImpl:48 - Tracking Application Status using Application ID in ApplicationService Layer
+2019-10-29 16:34:49 INFO  ApplicationServiceImpl:48 - Tracking Application Status using Application ID in ApplicationService Layer
+2019-10-29 16:36:46 INFO  MACserviceImpl:23 - Showing Applicants Details in MACService Layer
+2019-10-29 16:36:46 INFO  MACserviceImpl:54 - Retrieving Applicant Status in MACService Layer
+2019-10-29 16:36:46 INFO  LoginServiceImpl:21 - Login Authentication in LoginService Layer
+2019-10-29 16:36:47 INFO  ApplicationServiceImpl:48 - Tracking Application Status using Application ID in ApplicationService Layer
+2019-10-29 16:36:47 INFO  ApplicationServiceImpl:48 - Tracking Application Status using Application ID in ApplicationService Layer
+2019-10-29 16:36:47 INFO  ApplicationServiceImpl:48 - Tracking Application Status using Application ID in ApplicationService Layer
+2019-10-29 16:36:47 INFO  ApplicationServiceImpl:48 - Tracking Application Status using Application ID in ApplicationService Layer
+2019-10-29 17:18:10 INFO  LoginServiceImpl:35 - Login Authentication in LoginService Layer
+2019-10-29 17:18:11 INFO  MACserviceImpl:36 - Showing Applicants Details in MACService Layer
+2019-10-29 17:18:23 INFO  MACserviceImpl:67 - Retrieving Applicant Status in MACService Layer
+2019-10-29 17:18:25 INFO  MACserviceImpl:42 - Updating Applicants Details in MACService Layer
+2019-10-29 17:18:41 INFO  MACserviceImpl:36 - Showing Applicants Details in MACService Layer
+2019-10-29 17:18:41 INFO  MACserviceImpl:36 - Showing Applicants Details in MACService Layer
+2019-10-29 17:19:14 INFO  ApplicationServiceImpl:60 - Tracking Application Status using Application ID in ApplicationService Layer
+2019-10-29 17:26:09 INFO  MACserviceImpl:36 - Showing Applicants Details in MACService Layer
+2019-10-29 17:26:09 INFO  MACserviceImpl:67 - Retrieving Applicant Status in MACService Layer
+2019-10-29 17:26:10 INFO  LoginServiceImpl:35 - Login Authentication in LoginService Layer
+2019-10-29 17:26:10 INFO  ApplicationServiceImpl:60 - Tracking Application Status using Application ID in ApplicationService Layer
+2019-10-29 17:26:10 INFO  ApplicationServiceImpl:60 - Tracking Application Status using Application ID in ApplicationService Layer
+2019-10-29 17:26:10 INFO  ApplicationServiceImpl:60 - Tracking Application Status using Application ID in ApplicationService Layer
+2019-10-29 17:26:10 INFO  ApplicationServiceImpl:60 - Tracking Application Status using Application ID in ApplicationService Layer
+2019-10-29 17:30:21 INFO  MACserviceImpl:36 - Showing Applicants Details in MACService Layer
+2019-10-29 17:30:21 INFO  MACserviceImpl:67 - Retrieving Applicant Status in MACService Layer
+2019-10-29 17:30:21 INFO  LoginServiceImpl:35 - Login Authentication in LoginService Layer
+2019-10-29 17:30:21 INFO  ApplicationServiceImpl:60 - Tracking Application Status using Application ID in ApplicationService Layer
+2019-10-29 17:30:21 INFO  ApplicationServiceImpl:60 - Tracking Application Status using Application ID in ApplicationService Layer
+2019-10-29 17:30:21 INFO  ApplicationServiceImpl:60 - Tracking Application Status using Application ID in ApplicationService Layer
+2019-10-29 17:30:21 INFO  ApplicationServiceImpl:60 - Tracking Application Status using Application ID in ApplicationService Layer
+2019-10-29 17:38:44 INFO  MACserviceImpl:36 - Showing Applicants Details in MACService Layer
+2019-10-29 17:38:44 INFO  MACserviceImpl:67 - Retrieving Applicant Status in MACService Layer
+2019-10-29 17:38:44 INFO  LoginServiceImpl:35 - Login Authentication in LoginService Layer
+2019-10-29 17:38:44 INFO  ApplicationServiceImpl:60 - Tracking Application Status using Application ID in ApplicationService Layer
+2019-10-29 17:38:44 INFO  ApplicationServiceImpl:60 - Tracking Application Status using Application ID in ApplicationService Layer
+2019-10-29 17:38:44 INFO  ApplicationServiceImpl:60 - Tracking Application Status using Application ID in ApplicationService Layer
+2019-10-29 17:38:44 INFO  ApplicationServiceImpl:60 - Tracking Application Status using Application ID in ApplicationService Layer
+2019-10-29 17:39:07 INFO  LoginServiceImpl:35 - Login Authentication in LoginService Layer
+2019-10-29 17:39:08 INFO  MACserviceImpl:36 - Showing Applicants Details in MACService Layer
+2019-10-29 17:39:25 INFO  MACserviceImpl:67 - Retrieving Applicant Status in MACService Layer
+2019-10-29 17:39:26 INFO  MACserviceImpl:55 - Confirming Applicants Status in MACService Layer
+2019-10-29 17:39:26 INFO  MACserviceImpl:36 - Showing Applicants Details in MACService Layer
+2019-10-29 17:56:40 INFO  LoginServiceImpl:35 - Login Authentication in LoginService Layer
+2019-10-29 17:56:41 INFO  MACserviceImpl:36 - Showing Applicants Details in MACService Layer
+2019-10-29 17:56:48 INFO  LoginServiceImpl:35 - Login Authentication in LoginService Layer
+2019-10-29 17:56:49 INFO  MACserviceImpl:36 - Showing Applicants Details in MACService Layer
+2019-10-29 17:57:08 INFO  MACserviceImpl:67 - Retrieving Applicant Status in MACService Layer
+2019-10-29 17:57:17 INFO  MACserviceImpl:55 - Confirming Applicants Status in MACService Layer
+2019-10-29 17:57:17 INFO  MACserviceImpl:36 - Showing Applicants Details in MACService Layer
+2019-10-29 18:02:08 INFO  LoginServiceImpl:35 - Login Authentication in LoginService Layer
+2019-10-29 18:02:09 INFO  MACserviceImpl:36 - Showing Applicants Details in MACService Layer
+2019-10-29 18:02:17 INFO  MACserviceImpl:67 - Retrieving Applicant Status in MACService Layer
+2019-10-29 18:02:19 INFO  MACserviceImpl:42 - Updating Applicants Details in MACService Layer
+2019-10-29 18:02:26 INFO  MACserviceImpl:36 - Showing Applicants Details in MACService Layer
+2019-10-29 18:02:37 INFO  ApplicationServiceImpl:60 - Tracking Application Status using Application ID in ApplicationService Layer
+2019-10-29 18:20:26 INFO  ApplicationServiceImpl:48 - Listing Scheduled Programs Details in ApplicationService Layer
+2019-10-29 18:24:01 INFO  ApplicationServiceImpl:48 - Listing Scheduled Programs Details in ApplicationService Layer
+2019-10-29 18:57:42 INFO  ApplicationServiceImpl:60 - Tracking Application Status using Application ID in ApplicationService Layer
+2019-10-29 18:57:46 INFO  ApplicationServiceImpl:48 - Listing Scheduled Programs Details in ApplicationService Layer
+2019-10-29 18:57:46 INFO  ApplicationDAOImpl:168 - Showing Scheduled Programs in ApplicationDAOImpl Layer
+2019-10-29 18:57:46 INFO  ApplicationDAOImpl:168 - Showing Scheduled Programs in ApplicationDAOImpl Layer
+2019-10-29 18:57:46 INFO  ApplicationDAOImpl:168 - Showing Scheduled Programs in ApplicationDAOImpl Layer
+2019-10-29 18:57:46 INFO  ApplicationDAOImpl:168 - Showing Scheduled Programs in ApplicationDAOImpl Layer
+2019-10-29 18:57:46 INFO  ApplicationDAOImpl:168 - Showing Scheduled Programs in ApplicationDAOImpl Layer
+2019-10-29 18:57:57 INFO  LoginServiceImpl:35 - Login Authentication in LoginService Layer
+2019-10-29 18:57:58 INFO  LoginDaoImpl:58 - Login Authentication method in Login DAO Impl
+2019-10-29 18:57:58 INFO  MACdaoImpl:113 - Showing Application Details in MACdaoImpl Layer
+2019-10-29 18:57:58 INFO  MACdaoImpl:113 - Showing Application Details in MACdaoImpl Layer
+2019-10-29 18:57:58 INFO  MACdaoImpl:113 - Showing Application Details in MACdaoImpl Layer
+2019-10-29 18:57:58 INFO  MACdaoImpl:113 - Showing Application Details in MACdaoImpl Layer
+2019-10-29 18:57:58 INFO  MACserviceImpl:36 - Showing Applicants Details in MACService Layer
